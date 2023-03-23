@@ -1,6 +1,6 @@
 # book-list-app
 
-## To make a book list using localStorage in React, you can follow these steps :-
+### To make a book list using localStorage in React, you can follow these steps :-
 
 1. Create a new React component called "Form".
 ```
